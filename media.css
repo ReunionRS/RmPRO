@@ -91,6 +91,7 @@
     }
 
     .content img{
+        position: absolute;
         width: 120%;
         margin-left:160px;
         vertical-align: bottom;
